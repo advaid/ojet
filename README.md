@@ -1,2 +1,2 @@
 # ojet
-Practicing OJET basics with oreilly
+Practising OJET basics with oreilly
